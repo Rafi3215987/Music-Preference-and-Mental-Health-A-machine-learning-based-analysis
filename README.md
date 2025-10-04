@@ -1,0 +1,2 @@
+This is a research project that I've done as my academic research, which focuses on music's impact on people's mental health. A user-rated dataset from Kaggle was used, which depicts mental health ratings of four different mental health issues (Anxiety, Depression, Insomnia, OCD) and their musical preferences.
+Machine learning model which were used in this scenario are Random Forest, XGBoost, and Neural Network. Among these, XGBoost shows the highest accuracy of  94%.
